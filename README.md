@@ -1,0 +1,1 @@
+Rails/React app: https://hibbard.eu/rails-react-crud-app/
